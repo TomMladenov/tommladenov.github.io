@@ -2,6 +2,7 @@
 title: "About"
 permalink: /about/
 author_profile: true
+layout: single
 ---
 
 In 2018, Tom Mladenov has been awarded the academic degree of Master of Science specialisation Electronics and ICT Engineering Technology by the Belgian universities of [Hasselt](https://www.uhasselt.be/en) and [KU Leuven](https://www.kuleuven.be/english/) with great distinction. In 2014 he received both the Flemish Peter Heller talent Award and the PXL Tech Award for the MARS project (Mobile Adaptive Radio System). In 2018 he was the first European to have reported a signal from ESA’s ESEO microsatellite.
