@@ -1,0 +1,18 @@
+---
+title: "Publications"
+permalink: /publications/
+---
+
+
+G. Raskin, D. Rogozin, T. Mladenov, C. Schwab, D. Coutts, *”Fiber modal noise mitigation by arotating double scrambler”*, Proc. SPIE 11203, Advances in Optical Astronomical Instrumentation 2019, 112031O (3 January 2020), [see publication](https://doi.org/10.1117/12.2541364://google.com).
+
+T. Mladenov, *”Smart Satellite and AIS enabled Environmental Sensing Buoys for the Arctic”*, European Interparliamentary Space Conference EISC - Space for Sustainability Award (September 2019),
+[see publication](https://ba34181a-4e5d-435b-81e6-40ab9610c144.filesusr.com/ugd/81a602_09ef389a6765403898712ad760e1ef44.pdf).
+
+G. Raskin, T. Delabie, W. De Munter, H. Sana, B. Vandenbussche, B. Vandoren, V. Antoci, H. Kjeldsen,C. Karoff, A. de Koter, J.M. Dsert, T. Mladenov, D. Vandepitte, *”CUBESPEC: low-cost space-basedastronomical spectroscopy”*, Proc. SPIE 10698, Space Telescopes and Instrumentation 2018: Optical,Infrared and Millimeter Wave, 106985R (24 July 2018) [see publication](https://doi.org/10.1117/12.2314074).
+
+J. Hruby, G. Magchiels, T. Mladenov, D. Gybels, K. Winter, J. Vodnik, J. Prooth, M. Gulka, E. Bourgeois, M. Nesladek, *”Engineering platform for electric readout of NV spin center in diamond for magnetic field detection”*, Proc. IAC 2018, Specialised Technologies, Including Nanotechnology, IAC-18,C2,8,3,x47157, (2018), [see publication](http://iafastro.directory/iac/paper/id/47157/abstract-pdf/IAC-18,C2,8,3,x47157.brief.pdf?2018-03-28.12:01:45).
+
+#### Thesis
+
+T. Mladenov. (2018). *"FPGA-based Active Pointing Correction of Optical Instruments on Small Satellites."*, [seminar slides](https://fys.kuleuven.be/ster/education/seminars/kul-seminar-mladenov.pdf), [manuscript](/docs/thesis_mladenov.pdf).
