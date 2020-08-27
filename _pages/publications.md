@@ -1,10 +1,11 @@
 ---
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
 
-G. Raskin, D. Rogozin, T. Mladenov, C. Schwab, D. Coutts, *”Fiber modal noise mitigation by arotating double scrambler”*, Proc. SPIE 11203, Advances in Optical Astronomical Instrumentation 2019, 112031O (3 January 2020), [see publication](https://doi.org/10.1117/12.2541364://google.com).
+G. Raskin, D. Rogozin, T. Mladenov, C. Schwab, D. Coutts, *”Fiber modal noise mitigation by arotating double scrambler”*, Proc. SPIE 11203, Advances in Optical Astronomical Instrumentation 2019, 112031O (3 January 2020), [see publication](https://doi.org/10.1117/12.2541364).
 
 T. Mladenov, *”Smart Satellite and AIS enabled Environmental Sensing Buoys for the Arctic”*, European Interparliamentary Space Conference EISC - Space for Sustainability Award (September 2019),
 [see publication](https://ba34181a-4e5d-435b-81e6-40ab9610c144.filesusr.com/ugd/81a602_09ef389a6765403898712ad760e1ef44.pdf).
