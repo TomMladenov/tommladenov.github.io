@@ -14,4 +14,8 @@ I am currently part of the Flight Control Team of [OPS-SAT](https://www.esa.int/
 ESA - European Space Agency. My official position is a [YGT](https://www.esa.int/About_Us/Careers_at_ESA/Graduates_Young_Graduate_Trainees) Mission Operations Concept
 Engineer at ESOC in Darmstadt.
 
+Where I work:
 {% include video id="J5ZAghU34cI" provider="youtube" %}
+
+What I am working on:
+{% include video id="_uEvGfipmAw" provider="youtube" %}
