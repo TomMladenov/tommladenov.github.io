@@ -108,6 +108,9 @@ author:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/tom-mladenov"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-5888-2462"
 
 # Site Footer
 footer:
