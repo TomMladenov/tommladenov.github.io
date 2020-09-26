@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 layout: single
 ---
-T. Mladenov, B. Fischer, D. Evans, ESA’s OPS-SAT Mission: Powered by GNU Radio. Proceedings of the GNU Radio Conference, [S.l.], v. 5, n. 1, sep. 2020. Available at: [see publication](https://pubs.gnuradio.org/index.php/grcon/article/view/65). Date accessed: 15 sep. 2020.
+T. Mladenov, B. Fischer, D. Evans, *"ESA’s OPS-SAT Mission: Powered by GNU Radio"*, Proceedings of the GNU Radio Conference, [S.l.], v. 5, n. 1, sep. 2020. Available at: [see publication](https://pubs.gnuradio.org/index.php/grcon/article/view/65). Date accessed: 15 sep. 2020.
 
 G. Raskin, D. Rogozin, T. Mladenov, C. Schwab, D. Coutts, *”Fiber modal noise mitigation by arotating double scrambler”*, Proc. SPIE 11203, Advances in Optical Astronomical Instrumentation 2019, 112031O (3 January 2020), [see publication](https://doi.org/10.1117/12.2541364).
 
