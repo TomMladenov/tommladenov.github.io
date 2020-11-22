@@ -111,6 +111,13 @@ author:
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0001-5888-2462"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/scientific-contributions/Tom-Mladenov-2143162902"
+    - label: "Hackaday"
+      icon: "fas fa-hat-cowboy"
+      url: "https://hackaday.io/tmladenov"
+
 
 # Site Footer
 footer:
