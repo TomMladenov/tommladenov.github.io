@@ -18,3 +18,28 @@ I am currently part of the Flight Control Team of [OPS-SAT](https://www.esa.int/
 ESA - European Space Agency. My official position is a [YGT](https://www.esa.int/About_Us/Careers_at_ESA/Graduates_Young_Graduate_Trainees) Mission Operations Concept
 Engineer at ESOC - the European Space Operations Centre in Darmstadt, Germany:
 {% include video id="J5ZAghU34cI" provider="youtube" %}
+
+--
+
+The official About:
+
+In 2018, Tom Mladenov has been awarded the academic degree of Master of Science specialisation Electronics and ICT Engineering Technology by the Belgian universities of Hasselt (UHasselt) and Leuven (KU Leuven) with great distinction. In 2014 he received both the Flemish Peter Heller talent Award and the PXL Tech Award for the MARS project (Mobile Adaptive Radio System). In 2018 he was the first European to have reported a signal from [ESA’s ESEO microsatellite](http://www.esa.int/Education/ESEO/The_ESEO_Mission). In 2019 he was awarded the Special Mention of the Jury by [ESA’s Space Sustainability Award](https://www.space-sustainability-award.com/) during the 21st European Interparliamentary Space Conference (EISC) in Berlin.
+
+Tom Mladenov also participated in [ESA’s REXUS/BEXUS programme](http://rexusbexus.net/) where he acted as RF-Electronics design Engineer. The project comprised of miniaturizing a laboratory setup targeting Electric Readout of NV spin center in Diamond enabling quantum Magnetic Field Detection. The experimental quantum magnetometer was launched on a stratospheric balloon in Kiruna, Sweden. The next iteration of the design is  [planned to be hosted](https://www.esa.int/Education/Orbit_Your_Thesis/Round_2_for_Orbit_Your_Thesis) on-board the International Space Station using [ICE Cubes](https://www.icecubesservice.com/).
+
+Through various other space-related courses and projects, both intra- and extracurricular, he obtained unique know-how and hands-on skills primarily in the field of satellite operations automation and communications as well as groundstation engineering. His professional interests include, but are not limited to: satellite groundstation/infrastructure development (GEO, LEO and MEO), innovative deployment technology, optical groundstations, satellite acquisition and tracking, opto-electronic tracking and control systems and space instrumentation. Special interest in hybrid RF and optical satellite monitoring and ranging ground systems as well as signals intelligence for improved space situational awareness (SSA) and a general passion for ground data systems to support spaceflight.
+
+Proven hands-on experience with:
+- ESA EGOS Satellite control software and automation tools
+- Operations of experimental payloads/missions
+- Satellite Engineering Model testing Infrastructure
+- GNU Radio, SDR, modems, antennas and RF hardware
+- Electronics design & development
+- Opto-electronic imaging and tracking
+
+Tom has (co)authored several papers and published at conferences/in journals not limited to:
+- IEEE Institute of Electrical and Electronics Engineers
+- IAF International Astronautical Federation
+- SPIE the international society for optics and photonics
+- 69th International Astronautical Congress
+- 10th GNU Radio Conference (GRCon20)
