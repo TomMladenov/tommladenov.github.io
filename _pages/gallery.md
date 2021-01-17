@@ -3,57 +3,88 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 layout: single
-gallery1:
-  - url: /img/gallery/dish.png
-    image_path: /img/gallery/dish.png
+
+spaceops:
+  - url: /img/spaceops/dish.png
+    image_path: /img/spaceops/dish.png
     title: "DLR MORABA tracking dish at Esrange Space Center"    
-  - url: /img/gallery/wcontrol_room2.png
-    image_path: /img/gallery/wcontrol_room2.png
+  - url: /img/spaceops/wcontrol_room2.png
+    image_path: /img/spaceops/wcontrol_room2.png
     title: "VS23 launch coverage (Image: ESA/CNES/ARIANESPACE)"
-  - url: /img/gallery/smile.png
-    image_path: /img/gallery/smile.png
+  - url: /img/spaceops/smile.png
+    image_path: /img/spaceops/smile.png
     title: "Operations from ESA/ESOC/SMILE (Image: ESATV)"
+  - url: /img/spaceops/vs23.png
+    image_path: /img/spaceops/vs23.png
+    title: "Launch of VS23 from Kourou (Credit: CNES/ARIANESPACE)"           
+  - url: /img/spaceops/ops-sat.jpeg
+    image_path: /img/spaceops/ops-sat.jpeg
+    title: "HD-camera acquisition by OPS-SAT, 2ms exposure (image: ESA/OPS-SAT)"               
+  - url: /img/spaceops/bexus.png
+    image_path: /img/spaceops/bexus.png
+    title: "BEXUS 26 stratospheric balloon launched from Kiruna, Sweden"  
 
+electronics:
+  - url: /img/electronics/bmu.jpg
+    image_path: /img/electronics/bmu.jpg
+    title: "Remote atmospheric sensing unit"   
+  - url: /img/electronics/bmu_full.png
+    image_path: /img/electronics/bmu_full.png
+    title: "Remote atmospheric sensing unit - sensor array"   
+  - url: /img/electronics/sdr.jpg
+    image_path: /img/electronics/sdr.jpg
+    title: "Tactical SDR platform"   
 
-gallery2:
-  - url: /img/gallery/eisc.jpg
-    image_path: /img/gallery/eisc.jpg
+media:
+  - url: /img/media/eisc.jpg
+    image_path: /img/media/eisc.jpg
     title: "EISC award Ceremony with Klaus-Peter Willsch"   
-  - url: /img/gallery/egmont.jpg
-    image_path: /img/gallery/egmont.jpg
-    title: "STS"    
-  - url: /img/gallery/phta.jpg
-    image_path: /img/gallery/phta.jpg
+  - url: /img/media/egmont.jpg
+    image_path: /img/media/egmont.jpg
+    title: "STS"
+  - url: /img/media/opssat_pr.png
+    image_path: /img/media/opssat_pr.png
+    title: "OPS-SAT Launch"           
+  - url: /img/media/phta.jpg
+    image_path: /img/media/phta.jpg
     title: "Peter Heller Talent Award 2014"
 
-gallery3:
-  - url: /img/gallery/Jupiter.jpg
-    image_path: /img/gallery/Jupiter.jpg
+astronomy:
+  - url: /img/astronomy/jupiter_20170409.jpg
+    image_path: /img/astronomy/jupiter_20170409.jpg
     title: "Jupiter"      
-  - url: /img/gallery/Venus.jpg
-    image_path: /img/gallery/Venus.jpg
+  - url: /img/astronomy/venus_20170214.jpg
+    image_path: /img/astronomy/venus_20170214.jpg
     title: "Venus"
-  - url: /img/gallery/Saturn.jpg
-    image_path: /img/gallery/Saturn.jpg
+  - url: /img/astronomy/saturn_20170617.jpg
+    image_path: /img/astronomy/saturn_20170617.jpg
     title: "Saturn"
+  - url: /img/astronomy/mars_20180803.bmp
+    image_path: /img/astronomy/mars_20180803.bmp
+    title: "Mars"
+  - url: /img/astronomy/moon.jpg
+    image_path: /img/astronomy/moon.jpg
+    title: "Moon"
+  - url: /img/astronomy/moon_closeup.jpg
+    image_path: /img/astronomy/moon_closeup.jpg
+    title: "Moon - closeup"
+  - url: /img/astronomy/allsky.jpg
+    image_path: /img/astronomy/allsky.jpg
+    title: "Allsky in the Arctic"
+  - url: /img/astronomy/M13.jpg
+    image_path: /img/astronomy/M13.jpg
+    title: "Messier 13"
 
-gallery4:
-  - url: /img/gallery/flight.png
-    image_path: /img/gallery/flight.png
-    title: "A random flight"  
-  - url: /img/gallery/bexus.png
-    image_path: /img/gallery/bexus.png
-    title: "BEXUS 26 stratospheric balloon launched from Kiruna, Sweden"      
-  - url: /img/gallery/ops-sat.jpeg
-    image_path: /img/gallery/ops-sat.jpeg
-    title: "HD-camera acquisition by OPS-SAT, 2ms exposure (image: ESA/OPS-SAT)"                                        
 ---
 
+Space Operations
+{% include gallery id="spaceops"  caption="" %}
 
-{% include gallery id="gallery1"  caption="" %}
+Electronics
+{% include gallery id="electronics"  caption="" %}
 
-{% include gallery id="gallery2"  caption="" %}
+Astronomy
+{% include gallery id="astronomy"  caption="" %}
 
-{% include gallery id="gallery4"  caption="" %}
-
-{% include gallery id="gallery3"  caption="" %}
+Media
+{% include gallery id="media"  caption="" %}

@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Tom Mladenov"
   avatar           : "/img/avatar_cropped.png"
-  bio              : "Belgian Electronics Engineer working for a Space Agency"
+  bio              : "Belgian Electronics Engineer working for a Space Agency<br><br><br>Views and posts are my own<br>"
   location         : "Europe"
   email            :
   links:
@@ -209,7 +209,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: "/blog/page:num/"
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -242,7 +242,7 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /blog/categories/
 tag_archive:
   type: liquid
   path: /tags/
@@ -271,7 +271,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/blog/"
       type: posts
     values:
       layout: single
