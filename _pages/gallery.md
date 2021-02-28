@@ -30,24 +30,31 @@ electronics:
     title: "Remote atmospheric sensing unit"   
   - url: /img/electronics/bmu_full.png
     image_path: /img/electronics/bmu_full.png
-    title: "Remote atmospheric sensing unit - sensor array"   
-  - url: /img/electronics/sdr.jpg
-    image_path: /img/electronics/sdr.jpg
-    title: "Tactical SDR platform"   
+    title: "Remote atmospheric sensing unit - sensor array"  
+  - url: https://cdn.hackaday.io/images/5859901613258580110.JPG
+    image_path: https://cdn.hackaday.io/images/5859901613258580110.JPG
+    title: ""    
+  - url: https://cdn.hackaday.io/images/9277661613258543851.JPG
+    image_path: https://cdn.hackaday.io/images/9277661613258543851.JPG
+    title: ""   
 
 media:
+  - url: /img/media/opssat_pr.png
+    image_path: /img/media/opssat_pr.png
+    title: "OPS-SAT Launch"
+  - url: /img/media/media_ygt.png
+    image_path: /img/media/media_ygt.png
+    title: "YGT Interview"
+  - url: /img/media/phta.jpg
+    image_path: /img/media/phta.jpg
+    title: "Peter Heller Talent Award 2014"
   - url: /img/media/eisc.jpg
     image_path: /img/media/eisc.jpg
     title: "EISC award Ceremony with Klaus-Peter Willsch"   
   - url: /img/media/egmont.jpg
     image_path: /img/media/egmont.jpg
     title: "STS"
-  - url: /img/media/opssat_pr.png
-    image_path: /img/media/opssat_pr.png
-    title: "OPS-SAT Launch"           
-  - url: /img/media/phta.jpg
-    image_path: /img/media/phta.jpg
-    title: "Peter Heller Talent Award 2014"
+
 
 astronomy:
   - url: /img/astronomy/jupiter_20170409.jpg
@@ -68,6 +75,9 @@ astronomy:
   - url: /img/astronomy/moon_closeup.jpg
     image_path: /img/astronomy/moon_closeup.jpg
     title: "Moon - closeup"
+  - url: /img/astronomy/moon_narrowfield.png
+    image_path: /img/astronomy/moon_narrowfield.png
+    title: "Narrow field view of the moon"  
   - url: /img/astronomy/allsky.jpg
     image_path: /img/astronomy/allsky.jpg
     title: "Allsky in the Arctic"
@@ -88,3 +98,4 @@ Astronomy
 
 Media
 {% include gallery id="media"  caption="" %}
+
