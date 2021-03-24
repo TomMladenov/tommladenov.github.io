@@ -38,24 +38,6 @@ electronics:
     image_path: https://cdn.hackaday.io/images/9277661613258543851.JPG
     title: ""   
 
-media:
-  - url: /img/media/opssat_pr.png
-    image_path: /img/media/opssat_pr.png
-    title: "OPS-SAT Launch"
-  - url: /img/media/media_ygt.png
-    image_path: /img/media/media_ygt.png
-    title: "YGT Interview"
-  - url: /img/media/phta.jpg
-    image_path: /img/media/phta.jpg
-    title: "Peter Heller Talent Award 2014"
-  - url: /img/media/eisc.jpg
-    image_path: /img/media/eisc.jpg
-    title: "EISC award Ceremony with Klaus-Peter Willsch"   
-  - url: /img/media/egmont.jpg
-    image_path: /img/media/egmont.jpg
-    title: "STS"
-
-
 astronomy:
   - url: /img/astronomy/jupiter_20170409.jpg
     image_path: /img/astronomy/jupiter_20170409.jpg
@@ -95,7 +77,3 @@ Electronics
 
 Astronomy
 {% include gallery id="astronomy"  caption="" %}
-
-Media
-{% include gallery id="media"  caption="" %}
-
