@@ -18,4 +18,4 @@ J. Hruby, G. Magchiels, T. Mladenov, D. Gybels, K. Winter, J. Vodnik, J. Prooth,
 
 ### MSc. Thesis
 
-T. Mladenov. (2018). *"FPGA-based Active Pointing Correction of Optical Instruments on Small Satellites."*, <a href="https://tommladenov.github.io/media/thesis/thesis_mladenov.pdf" target="_blank">seminar slides</a>
+T. Mladenov. (2018). *"FPGA-based Active Pointing Correction of Optical Instruments on Small Satellites."*, <a href="https://tommladenov.github.io/media/thesis/thesis_mladenov.pdf" target="_blank">manuscript</a> <a href="https://tommladenov.github.io/media/thesis/slides_mladenov.pdf" target="_blank">seminar</a>
