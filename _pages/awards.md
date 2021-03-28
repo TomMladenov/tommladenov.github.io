@@ -3,6 +3,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 layout: single
+header:
+  overlay_image: /img/media/eisc.jpg
+  overlay_filter: 0.5
+  caption: "Photo credit: [**Mike Auerbach**](https://www.mike-auerbach.com/)"
 ---
 
 
