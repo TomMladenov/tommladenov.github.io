@@ -6,11 +6,11 @@ main:
     url: /publications/
   - title: "Media"
     url: /media/
-  - title: "Projects"
-    url: /projects/
   - title: "Awards"
     url: /awards/
   - title: "Gallery"
     url: /gallery/
+  - title: "Projects"
+    url: /projects/    
   - title: "Contact"
     url: /contact/
