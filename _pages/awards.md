@@ -11,7 +11,7 @@ header:
 
 
 **2019 ESA - EISC Space Sustainability Award, Special Mention of the Jury**\\
-This renowned European prize is targeting young professionals under 30 with Project Ideas which will enable the space sector to raise awareness among the younger generations and professionals, and contribute to furthering the debate on various topics.
+This renowned European prize is targeting young professionals under 30 with Project Ideas which will enable the space sector to raise awareness among the younger generations and professionals, and contribute to furthering the debate on various topics that focus on sustainability.
 
 
 **2019 IEEE Arctic Challenge**\\
