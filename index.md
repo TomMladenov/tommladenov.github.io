@@ -27,13 +27,12 @@ Proven hands-on experience with:
 - Electronics design & development
 - Opto-electronic imaging and tracking
 
-Tom has (co)authored several papers and published at conferences/in journals not limited to:
+Tom has (co)authored several papers and published at conferences and in journals/societies not limited to:
 - IEEE Institute of Electrical and Electronics Engineers
-- IAF International Astronautical Federation
 - SPIE the international society for optics and photonics
 - 69th International Astronautical Congress
 - 10th GNU Radio Conference (GRCon20)
-
+- 16th International Conference on Space Operations (SpaceOps 2021)
 
 {% include video id="yjKcMEge23I" provider="youtube" %}
 
