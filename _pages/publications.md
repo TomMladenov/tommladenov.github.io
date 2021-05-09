@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 layout: single
+toc: true
+toc_sticky: true
 ---
 
 # 2021
@@ -35,6 +37,4 @@ G. Raskin, T. Delabie, W. De Munter, H. Sana, B. Vandenbussche, B. Vandoren, V. 
 
 J. Hruby, G. Magchiels, T. Mladenov, D. Gybels, K. Winter, J. Vodnik, J. Prooth, M. Gulka, E. Bourgeois, M. Nesladek, *”Engineering platform for electric readout of NV spin center in diamond for magnetic field detection”*, Proc. IAC 2018, Specialised Technologies, Including Nanotechnology, IAC-18,C2,8,3,x47157, (2018), <a href="https://tommladenov.github.io/media/publications/iac-18c283x47157-1.pdf" target="_blank">see publication</a>
 
-### MSc. Thesis
-
-T. Mladenov. (2018). *"FPGA-based Active Pointing Correction of Optical Instruments on Small Satellites."*, <a href="https://tommladenov.github.io/media/thesis/thesis_mladenov.pdf" target="_blank">manuscript</a> <a href="https://tommladenov.github.io/media/thesis/slides_mladenov.pdf" target="_blank">seminar</a>
+(MSc. Thesis) T. Mladenov. (2018). *"FPGA-based Active Pointing Correction of Optical Instruments on Small Satellites."*, <a href="https://tommladenov.github.io/media/thesis/thesis_mladenov.pdf" target="_blank">manuscript</a> <a href="https://tommladenov.github.io/media/thesis/slides_mladenov.pdf" target="_blank">seminar</a>
