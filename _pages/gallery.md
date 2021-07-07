@@ -70,6 +70,17 @@ astronomy:
 ---
 
 Space Operations
+
+<center>
+    <img src="/img/media/xcontrol_room.png" alt="" class="centerImage">
+    <figcaption>{{ "Monitoring of spacecraft separation from Soyuz-FG (ARIANESPACE/ESATV)" }}</figcaption>
+</center>
+
+<center>
+    <img src="/img/media/wcontrol_room2.png" alt="" class="centerImage">
+    <figcaption>{{ "Awaiting AOS after satellite separation (ARIANESPACE/ESATV)" }}</figcaption>
+</center>
+
 {% include gallery id="spaceops"  caption="" %}
 
 Electronics

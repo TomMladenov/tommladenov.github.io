@@ -25,16 +25,22 @@ toc_sticky: true
 *”Life as an ESA YGT: Mission Operations Concept Engineer"* <br/>
 (February 2021, ESA) <a href="https://www.esa.int/About_Us/Careers_at_ESA/Life_as_an_ESA_YGT_Mission_Operations_Concept_Engineer" target="_blank">read interview</a>
 
-### Media
+### Posts
 
 <center>
-    <img src="/img/media/wcontrol_room2.png" alt="" class="centerImage">
-    <figcaption>{{ "Awaiting AOS after satellite separation (ARIANESPACE/ESATV)" }}</figcaption>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6814932772403068928" height="978" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </center>
 
 <center>
-    <img src="/img/media/xcontrol_room.png" alt="" class="centerImage">
-    <figcaption>{{ "Monitoring of spacecraft separation from Soyuz-FG (ARIANESPACE/ESATV)" }}</figcaption>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6745330296402534400" height="807" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</center>
+
+<center>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6713083927235440640" height="584" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</center>
+
+<center>
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6688563502585524224" height="845" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </center>
 
 <center>
