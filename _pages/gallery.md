@@ -37,6 +37,9 @@ electronics:
   - url: https://cdn.hackaday.io/images/9277661613258543851.JPG
     image_path: https://cdn.hackaday.io/images/9277661613258543851.JPG
     title: ""   
+  - url: /img/electronics/mini_ogs.png
+    image_path: /img/electronics/mini_ogs.png
+    title: "Optical groundstation"
 
 astronomy:
   - url: /img/astronomy/jupiter_20170409.jpg
@@ -73,12 +76,22 @@ Space Operations
 
 <center>
     <img src="/img/media/xcontrol_room.png" alt="" class="centerImage">
-    <figcaption>{{ "Monitoring of spacecraft separation from Soyuz-FG (ARIANESPACE/ESATV)" }}</figcaption>
+    <figcaption>{{ "Monitoring of OPS-SAT separation from Soyuz-FG Upper Stage (ARIANESPACE/ESATV)" }}</figcaption>
 </center>
 
 <center>
     <img src="/img/media/wcontrol_room2.png" alt="" class="centerImage">
-    <figcaption>{{ "Awaiting AOS after satellite separation (ARIANESPACE/ESATV)" }}</figcaption>
+    <figcaption>{{ "Awaiting AOS after OPS-SAT separation from Soyuz-FG Upper Stage (ARIANESPACE/ESATV)" }}</figcaption>
+</center>
+
+<center>
+    <img src="/img/astronomy/1iss_mladenov_20210906.png" alt="" class="centerImage">
+    <figcaption>{{ "Visual confirmation of SpaceX CRS-23 docked to ISS" }}</figcaption>
+</center>
+
+<center>
+    <img src="/img/electronics/mini_ogs.png" alt="" class="centerImage">
+    <figcaption>{{ "Optical groundstation" }}</figcaption>
 </center>
 
 {% include gallery id="spaceops"  caption="" %}
