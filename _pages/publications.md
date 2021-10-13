@@ -9,6 +9,8 @@ toc_sticky: true
 
 # 2021
 
+Dominik Marszk, David Evans, Maximilian Henkel, Otto Koudelka, Manuel Kubicka, Mario Merri, Tom Mladenov, Kevin Otto, Mehran Sarkarati (2021). *"OPS-SAT in orbit - a technical rundown of this open experimentation platform"*, Conference paper, DASIA 2021 (Data Systems in Aerospace) 21 - 23 September 2021.
+
 Labrèche, G., Evans, D., Marszk, D., Mladenov, T., Shiradhonkar, V., Zelenevskiy, V. (2021). *"Crowdsourcing Machine Learning Models for Autonomous In-Flight Operations with TensorFlow Lite On-Board the OPS-SAT Spacecraft."*, 16th International Conference on Space Operations, Cape Town, South Africa – 3 - 5 May 2021.
 
 Evans, D., Labrèche, G., Mladenov, T., Zelenevskiy, V., Marszk, D., & Shiradhonkar, V. (2021). *"OPS-SAT LEOP and Commissioning: Running a Nanosatellite Project in a Space Agency Context."*, 16th International Conference on Space Operations, Cape Town, South Africa – 3 - 5 May 2021.
