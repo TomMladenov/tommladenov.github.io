@@ -9,7 +9,11 @@ toc_sticky: true
 
 ### Talks
 
-*”OPS-SAT - Your code: our mission"* <br/>(December 2020, OSCW20) <a href="https://www.youtube.com/watch?v=WUinXX2jM-U" target="_blank">watch talk</a>
+*”Videocon: OPS-SAT - Your code, our mission"* <br/>(December 2020, OSCW20) <a href="https://www.youtube.com/watch?v=WUinXX2jM-U" target="_blank">watch talk</a>
+
+*"Presentation: OPS-SAT - Experimenter Satellite Operations"* <br/>(December 2020, OSCW20) <a href="https://opssat1.esoc.esa.int/attachments/download/662/OPS-SAT%20Experimenter%20Operations.pdf" target="_blank">download presentation</a>
+
+*”Satellite Operations Automation: OPS-SAT Pass Sequence"* <br/>(8 December 2020, ESOC) <a href="https://opssat1.esoc.esa.int/attachments/download/657/OPS-SAT%20Automation%20tools%20and%20typical%20pass%20sequence.pdf" target="_blank">download presentation</a>
 
 *”Space operations engineering through the eyes of an electronics engineer"* <br/>(November 2020, UHasselt FIIW) [view slides](/media/talks/ops_engineering_mladenov_20201112.pdf)
 <br/>
