@@ -7,7 +7,18 @@ toc: true
 toc_sticky: true
 ---
 
+# 2022
+
+Labrèche, G., Evans, D., Marszk, D., Mladenov, T., Shiradhonkar, V., Soto, T., & Zelenevskiy, V. (2022). *"OPS-SAT Spacecraft Autonomy with TensorFlow Lite, Unsupervised Learning, and Online Machine Learning."* 2022 IEEE Aerospace Conference.
+
+T. Mladenov, D. Evans and V. Zelenevskiy, *"Implementation of a GNU Radio-Based Search and Rescue Receiver on ESA's OPS-SAT Space Lab,"* in IEEE Aerospace and Electronic Systems Magazine, vol. 37, no. 5, pp. 4-12, 1 May 2022, doi: 10.1109/MAES.2022.3143875. <a href="https://ieeexplore.ieee.org/document/9684957" target="_blank">see publication</a>
+
+Georges Labrèche, David Evans, Dominik Marszk, Tom Mladenov, Vasundhara Shiradhonkar and Vladimir Zelenevskiy (2022) *"Agile Development and Rapid Prototyping in a Flying Mission with Open Source Software Reuse On-Board the OPS-SAT Spacecraft"*, Conference paper,AIAA 2022-0648 Session: Small Satellites III,  AIAA SCITECH 2022 Forum, San Diego CA · January 2022
+
+Georges Labrèche, David Evans, Dominik Marszk, Tom Mladenov, Vasundhara Shiradhonkar and Vladimir Zelenevskiy (2022) *"Artificial Intelligence for Autonomous Planning and Scheduling of Image Acquisition with the SmartCam App On-Board the OPS-SAT Spacecraft"*, Conference paper, AIAA 2022-2508 Session: Space Operations and Support I, AIAA SCITECH 2022 Forum, San Diego CA · January 2022
+
 # 2021
+
 
 Dominik Marszk, David Evans, Maximilian Henkel, Otto Koudelka, Manuel Kubicka, Mario Merri, Tom Mladenov, Kevin Otto, Mehran Sarkarati (2021). *"OPS-SAT in orbit - a technical rundown of this open experimentation platform"*, Conference paper, DASIA 2021 (Data Systems in Aerospace) 21 - 23 September 2021.
 
