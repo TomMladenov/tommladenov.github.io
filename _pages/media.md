@@ -5,6 +5,9 @@ author_profile: true
 layout: single
 toc: true
 toc_sticky: true
+header:
+  overlay_image: /img/media/control_room_wide.png
+  overlay_filter: 0.5
 ---
 
 ### Talks
@@ -26,8 +29,14 @@ toc_sticky: true
 
 ### Interviews
 
+*”Besuch im Raumfahrtkontrollzentrum der ESA"* <br/>
+(May 2022, Politopia Magazin on Radio X 91.8 FM) <a href="https://politopiamagazin.de/Members/thorsten/220525/pta220525.mp3" target="_blank">listen to Radio interview</a>
+
 *”Life as an ESA YGT: Mission Operations Concept Engineer"* <br/>
 (February 2021, ESA) <a href="https://www.esa.int/About_Us/Careers_at_ESA/Life_as_an_ESA_YGT_Mission_Operations_Concept_Engineer" target="_blank">read interview</a>
+
+*”OPS-SAT: The Flying Laboratory"* <br/>
+(December 2019, ESA TV) <a href="https://www.esa.int/esatv/Videos/2019/12/OPS-SAT_the_flying_laboratory/Soundbites_Tom_Mladenov_Young_Graduate_Trainee_ESA_English" target="_blank">watch interview</a>
 
 ### Posts
 
